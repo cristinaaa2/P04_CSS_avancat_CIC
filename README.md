@@ -2,3 +2,5 @@
  
 La plantilla que he fet servir es la SPECTRAL
 URL: https://html5up.net/spectral
+
+He fet la part extra del SASS
